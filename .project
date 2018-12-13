@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>cguimjava2-hw5-B0444142</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Card.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/cguimjava2-hw4-B0444142/Card.java</locationURI>
+		</link>
+		<link>
+			<name>Deck.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/cguimjava2-hw4-B0444142/Deck.java</locationURI>
+		</link>
+		<link>
+			<name>Player.java</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/cguimjava2-hw4-B0444142/Player.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
